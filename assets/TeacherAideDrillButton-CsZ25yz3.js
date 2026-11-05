@@ -1,0 +1,1 @@
+import{u as c,E as u,F as d,j as l,B as f}from"./index-DOh31ksZ.js";function m({prompt:e,topic:t,drill:n,focus:r,options:i}){const{pathname:o}=c(),s=u(),a=d({pathname:o,prompt:e,source:"drill",frame:{topic:t,drill:n,focus:r,options:i}});return a?l.jsx(f,{variant:"secondary",onClick:()=>s("/teacher-aide",{state:a}),children:"Teacher Aide"}):null}export{m as T};
